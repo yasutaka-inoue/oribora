@@ -25,4 +25,4 @@ ReactDOM.render(
     <ThemeProvider theme={theme}>
         <Router />
     </ThemeProvider>
-, document.getElementById("root"));
+, document.getElementById("app"));
